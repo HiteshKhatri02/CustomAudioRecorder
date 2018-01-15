@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioRecoder</string>
+    <string name="text_play_audio">AndroidLame</string>
+</resources>

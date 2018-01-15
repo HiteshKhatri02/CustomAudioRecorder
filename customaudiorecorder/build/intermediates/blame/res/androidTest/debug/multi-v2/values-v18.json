@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/hitesh/77c7eabc-a6c3-4cc9-9307-93510907a526/hitesh/work/AndroidStudioProjects/AudioRecorder/customaudiorecorder/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/41110fa4b14d326800dcf3460ab66327/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

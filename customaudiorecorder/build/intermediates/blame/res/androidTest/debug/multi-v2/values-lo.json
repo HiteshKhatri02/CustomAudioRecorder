@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/hitesh/77c7eabc-a6c3-4cc9-9307-93510907a526/hitesh/work/AndroidStudioProjects/AudioRecorder/customaudiorecorder/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lo/values-lo.xml",
+            "map": [
+                {
+                    "source": "/home/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/41110fa4b14d326800dcf3460ab66327/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,412,497,602,714,791,869,949,1056,1153,1251,1356,1459,1563,1720,1816",
+                        "endColumns": "102,96,106,84,104,111,76,77,79,106,96,97,104,102,103,156,95,80",
+                        "endOffsets": "203,300,407,492,597,709,786,864,944,1051,1148,1246,1351,1454,1558,1715,1811,1892"
+                    }
+                },
+                {
+                    "source": "/home/hitesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e735b604c6da86860285d85b9b0867e3/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1897",
+                        "endColumns": "100",
+                        "endOffsets": "1993"
+                    }
+                }
+            ]
+        }
+    ]
+}
